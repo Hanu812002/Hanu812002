@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning integrating ml and android
 - 📫 How to reach me 
   hanu.kiet@gmail.com
-  inkedin.com/in/hanu-agarwal-966212200
+  linkedin.com/in/hanu-agarwal-966212200
 
 
 <!---
