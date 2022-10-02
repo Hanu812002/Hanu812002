@@ -2,8 +2,8 @@
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning integrating ml and android
 - 📫 How to reach me 
-  hanu.kiet@gmail.com
-  linkedin.com/in/hanu-agarwal-966212200
+- hanu.kiet@gmail.com
+-  linkedin.com/in/hanu-agarwal-966212200
 
 
 <!---
