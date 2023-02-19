@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hanu812002
-- 👀 I’m interested in Android Development
+- 👀 I’m a backend developer Spring Boot.
 - 🌱 I’m currently learning integrating ml and android
 - 📫 How to reach me 
 - hanu.kiet@gmail.com
