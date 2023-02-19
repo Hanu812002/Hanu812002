@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hanu812002
 - 👀 I’m a Backend developer Spring Boot.
-- 📫 How to reach me 
+- 📫 How to reach me
 - hanu.kiet@gmail.com
 -  linkedin.com/in/hanu-agarwal-966212200
 
