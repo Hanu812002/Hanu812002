@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
  
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanu-agarwal-966212200?original_referer=)
 [![GMAIL Badge](https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=&logo=gmail&logoColor=white)](mailto:hanu.kiet@gmail.com)
-[![Leetcode](https://img.shields.io/badge/-Leetcode-cb410b?style=for-the-badge&labelColor=&logo=leetcode&logoColor=black)](https://leetcode.com/hanuagarwal181/)
+[![Leetcode](https://img.shields.io/badge/-Leetcode-cb410b?style=for-the-badge&labelColor=&logo=leetcode&logoColor=black)](https://leetcode.com/hanua_30/)
 [![GFG](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/hanu_30/)
 </p>
 
@@ -38,3 +38,6 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/millenium103?theme=unicorn)](https://leetcode.com/hanua_30/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/millenium103?theme=light,unicorn)](https://leetcode.com/hanua_30/)
