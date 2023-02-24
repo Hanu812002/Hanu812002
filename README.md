@@ -40,7 +40,5 @@ You can click the Preview link to take a look at your changes.
 
 <h2> GitHub :heart: </h2>
 <div align = "center">
-<!-- [GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Hanu812002&theme=dark)  -->
 ![Hanu's github stats](https://github-readme-stats.vercel.app/api?username=Hanu812002&show_icons=true&theme=radical&line_height=27)
- <!-- ![Hanu's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanu812002&hide=css,java,html&theme=radical) -->
-</div> 
+</div>
