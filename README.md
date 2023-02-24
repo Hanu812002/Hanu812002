@@ -40,5 +40,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2> Leetcode </h2>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hanua_30?theme=unicorn)](https://leetcode.com/hanua_30/)
+<!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/hanua_30?theme=unicorn)](https://leetcode.com/hanua_30/)
+ -->
+ 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/hanua_30?theme=light,unicorn)](https://leetcode.com/hanua_30/)
