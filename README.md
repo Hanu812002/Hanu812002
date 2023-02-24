@@ -34,6 +34,6 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/datastructure%20-%2343853D.svg?&style=for-the-badge&logo=DataStructure&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>&nbsp;&nbsp;
 
 </p>
