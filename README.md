@@ -18,5 +18,11 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left">
  <a href="https://github.com/RitikaSingh02"><img src="https://readme-typing-svg.herokuapp.com/?color=E30B5C&width=900&height=40&lines=Pursuing+B.Tech+in+Computer+Science;Learning+SpringBoot+Brushing+up+Cpp" /></a>
-
 </p>
+
+<h2 align="center"> 🔭 Technology Stack</h2>
+<p align="center">
+<img src="https://img.shields.io/badge/html5%20-%2343853D.svg?&style=for-the-badge&logo=html5&logoColor=white"     />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/java%20-%2343853D.svg?&style=for-the-badge&logo=java&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/c++%20-%2343853D.svg?&style=for-the-badge&logo=c++&logoColor=white"/>&nbsp;&nbsp;
+ </p>
