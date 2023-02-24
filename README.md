@@ -9,7 +9,7 @@
 Hanu812002/Hanu812002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h2 align="center"> ⚡ Reach Me Out!!</h2>
+<h2> ⚡ Reach Me Out!!</h2>
 
 <p align="center">
  
