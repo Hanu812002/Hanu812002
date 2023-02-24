@@ -20,8 +20,8 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-<p align="left">
- <a href="https://github.com/RitikaSingh02"><img src="https://readme-typing-svg.herokuapp.com/?color=E30B5C&width=900&height=40&lines=Pursuing+B.Tech+in+Computer+Science;Learning+SpringBoot+Brushing+up+Cpp" /></a>
+<p align="center">
+ <a href="https://github.com/Hanu812002"><img src="https://readme-typing-svg.herokuapp.com/?color=E30B5C&width=900&height=40&lines=Pursuing+B.Tech+in+Computer+Science;Learning+SpringBoot+Brushing+up+Cpp" /></a>
 </p>
 
 <h2 align="center"> 🔭 Technology Stack</h2>
