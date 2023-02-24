@@ -16,7 +16,8 @@ You can click the Preview link to take a look at your changes.
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanu-agarwal-966212200?original_referer=)
 [![GMAIL Badge](https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=&logo=gmail&logoColor=white)](mailto:hanu.kiet@gmail.com)
 [![Leetcode](https://img.shields.io/badge/-Leetcode-cb410b?style=for-the-badge&labelColor=&logo=leetcode&logoColor=black)](https://leetcode.com/hanuagarwal181/)
-
+[https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white
+]
 </p>
 
 
@@ -33,5 +34,5 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/datastructure%20-%2343853D.svg?&style=for-the-badge&logo=DataStructure&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp;&nbsp;
-
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>&nbsp;&nbsp;
 </p>
