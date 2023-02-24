@@ -9,11 +9,12 @@
 Hanu812002/Hanu812002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h2> ⚡ Reach Me Out!!</h2>
-
+<h2 align="center"> ⚡ Reach Me Out!!</h2>
+<p align="center">
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanu-agarwal-966212200?original_referer=)
 [![GMAIL Badge](https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=&logo=gmail&logoColor=white)](mailto:hanu.kiet@gmail.com)
 [![Leetcode](https://img.shields.io/badge/-Leetcode-cb410b?style=for-the-badge&labelColor=&logo=leetcode&logoColor=black)](https://leetcode.com/hanuagarwal181/)
+</p>
 
 
 <p align="left">
