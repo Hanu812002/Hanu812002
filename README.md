@@ -22,6 +22,8 @@ You can click the Preview link to take a look at your changes.
 
 <p >
  <a href="https://github.com/Hanu812002"><img src="https://readme-typing-svg.herokuapp.com/?color=E30B5C&width=900&height=40&lines=Pursuing+B.Tech+in+Computer+Science;Learning+SpringBoot+Brushing+up+Cpp" /></a>
+ <a href="https://github.com/Hanu812002"><img align="right" width="28%" src="https://media4.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" /> </a>
+
 </p>
 
 <h2> 🔭 Technology Stack</h2>
