@@ -44,3 +44,9 @@ You can click the Preview link to take a look at your changes.
  -->
  
 [![Leetcode Stats](https://leetcard.jacoblin.cool/hanua_30?theme=light,unicorn)](https://leetcode.com/hanua_30/)
+
+
+<h2> Most languages </h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanu812002&layout=compact)](https://github.com/Hanu812002/github-readme-stats)
+
